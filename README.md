@@ -3,6 +3,7 @@
 We will be using data from a Kaggle data set[House Sales](https://www.kaggle.com/harlfoxem/housesalesprediction) 
 ### Feature Columns
 id - Unique ID for each home sold
+
 date - Date of the home sale
 price - Price of each home sold
 bedrooms - Number of bedrooms
